@@ -34,7 +34,7 @@ This is a working space for my personal website. I am currently an associate Dat
 <div class="col-sm-6">
 
 <a href = "https://github.com/lmnathe/LucasNathe">
-![](flowers.jpeg)
+![](images/chase_headshot.jpeg)
 </a>
 </div>
 Disclaimer: The views expressed on this site are mine alone and do not reflect the views of the J.P. Morgan Chase Institute or its staff. 
