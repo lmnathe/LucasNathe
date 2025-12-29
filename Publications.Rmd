@@ -22,44 +22,84 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 ##  (Co)Authored
 
+2025 | 12 | 9
+
+1. [The new income-driven repayment plan: Student debt outcomes and federal revenue implications](https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/new-income-driven-repayment-plan)
+- The federal student loan system is entering a new phase. In July 2025, the One Big Beautiful Bill Act (OBBB) created a new income-driven repayment (IDR) program called the Repayment Assistance Program (RAP). RAP changes how student loans will be repaid and will become available to borrowers in 2026. By 2028, it will replace all other IDR options. Although RAP could have far-reaching effects on borrowers and the broader student debt loan system, limited data make it difficult to know exactly what those impacts will be. This report, drawing on administrative income and loan balance data, fills a critical gap by providing a much needed initial look at RAP’s potential effects on borrowers and government revenue. 
+
+$$\\[.5in]$$
+
 2022 | 7 | 27
 
-1. [Medical Collection Removal](https://www.consumerfinance.gov/data-research/research-reports/paid-and-low-balance-medical-collections-on-consumer-credit-reports/)
+2. [Medical Collection Removal](https://www.consumerfinance.gov/data-research/research-reports/paid-and-low-balance-medical-collections-on-consumer-credit-reports/)
 - This report explores the characteristics of consumers with reported medical collections and focuses on the current state of medical collections that appear on consumer credit reports and medical collections that are likely to be removed from consumer credit reports in the next year.
 
 
 
 2022 | 5 | 13
 
-2. [Credit Card Late Fees](https://files.consumerfinance.gov/f/documents/cfpb_credit-card-late-fees_report_2022-03.pdf)
+3. [Credit Card Late Fees](https://files.consumerfinance.gov/f/documents/cfpb_credit-card-late-fees_report_2022-03.pdf)
 - Prior to the COVID-19 pandemic, consumers had steadily been paying more in credit card late
 fees each year—peaking at over $14 billion in 2019. Late fees assessed by issuers declined to
 about $12 billion in 2020 given record-high payment rates and public and private relief efforts.
 Even during the pandemic, late fees accounted for over one-tenth of the $120 billion consumers
 pay in credit card interest and fees annually. In 2021, total late fee volume was on the rise again
 
-$$\\[.75in]$$
+
 
 2022 | 2 | 11
 
-3. [Delinquency Rates and the “Missing Originations” in the Auto Loan Market](https://www.federalreserve.gov/econres/notes/feds-notes/delinquency-rates-and-the-missing-originations-in-the-auto-loan-market-20220211.htm)
+4. [Delinquency Rates and the “Missing Originations” in the Auto Loan Market](https://www.federalreserve.gov/econres/notes/feds-notes/delinquency-rates-and-the-missing-originations-in-the-auto-loan-market-20220211.htm)
 - One of the surprising characteristics of the economic downturn induced by the COVID-19 pandemic is that delinquency rates in most consumer credit markets have remained low both during the downturn and the subsequent recovery. The existing literature has emphasized the roles that forbearance policies and various government stimulus programs played in helping households meet their debt obligations (Dettling and Lambie-Hanson, 2021; Bakshi and Rose, 2021). In this note, we examine an additional factor that has contributed to low delinquency rates: a drop in originations of new loans to risky borrowers most likely to become delinquent.
+
 
 
 2021 | 7 | 15
 
-4. [Credit Bureau Entry Age and First Credit Type Effects on Credit Score](https://www.federalreserve.gov/econres/notes/feds-notes/does-the-age-at-which-a-consumer-gets-their-first-credit-matter-20210715.htm)
+5. [Credit Bureau Entry Age and First Credit Type Effects on Credit Score](https://www.federalreserve.gov/econres/notes/feds-notes/does-the-age-at-which-a-consumer-gets-their-first-credit-matter-20210715.htm)
 - This note presents some statistics regarding the distribution of the ages of consumers as they are added to credit reporting data and the longer-term implications of their entry-age and initial credit type.
+
+
 
 2021 | 4 | 30 
 
-5. [Developments in the Credit Score Distribution over 2020](https://www.federalreserve.gov/econres/notes/feds-notes/developments-in-the-credit-score-distribution-over-2020-20210430.htm)
+6. [Developments in the Credit Score Distribution over 2020](https://www.federalreserve.gov/econres/notes/feds-notes/developments-in-the-credit-score-distribution-over-2020-20210430.htm)
 - The distribution of household credit risk can vary with aggregate economic and credit conditions. For example, the share of subprime-scored borrowers declined at a relatively steady pace during the economic recovery from the Global Financial Crisis. Although the COVID-19 pandemic interrupted the economic conditions that supported this trend, the pace of decline accelerated following the pandemic’s onset in March 2020.
 
 
-##  Assisted
+##  Assisted (Built data asset/models)
 
-2021 | 1 | 1 
+2025 | 9 | 18 
 
-1. [Is Lending Distance Really Changing? Distance Dynamics and Loan Composition in Small Business Lending](https://www.federalreserve.gov/econres/feds/files/2021011pap.pdf)
+1. [Building financial security and resilience to unexpected expenses: The importance of cash savings](https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/building-financial-security-and-resilience)
+- The ability to cover unexpected expenses is a critical component of a household’s financial security. If a household doesn't have the funds to cover an unexpected expense, its financial security and overall welfare could be seriously harmed. Is it possible for households to quickly increase their ability to cover expenses without significant life changes? This depends on two factors: First, how much security does an emergency savings fund provide to a household that already has enough discretionary income to cover most expenses? Second, do households have enough discretionary income to build up an emergency savings fund quickly?
+
+
+
+2025 | 4 | 10
+
+2. [The consistency of health insurance coverage in small businesses: industry challenges and insights](https://www.jpmorganchase.com/institute/all-topics/business-growth-and-entrepreneurship/small-business-health-insurance-consistency)
+- Entrepreneurship is a significant driver of economic growth and dynamism, yet recent trends suggest stagnation in some industries. A critical factor contributing to this stagnation may be the burden of health insurance payments, which disproportionately affects small businesses.
+
+- This study addresses a critical gap in understanding how health insurance burdens affect small businesses and their survival, particularly within different industries. To do so, we leverage unique deidentified firm-level deposit account data that allows us to analyze health insurance payments within the context of other firm finances, providing insights by industry.
+
+
+
+2024 | 6 | 24
+
+3. [The Burden of Health Insurance Premiums on Small Business](https://www.jpmorganchase.com/institute/all-topics/business-growth-and-entrepreneurship/small-business-health-insurance-burdens)
+- The growing cost of healthcare is often cited as a concern both for owners of small businesses and their employees, with potential implications for the sector to contribute to the growth of the U.S. economy. For small businesses that provide health insurance benefits, insurance premiums may be a material portion of their cost of conducting business. To better document these outcomes, we analyzed small businesses health insurance premium payments, focusing on the five years from 2018 to 2023. Our unique data asset allowed us to follow cohorts of firms over time, providing insights into the small business experience of paying for health insurance relative to other costs. 
+
+
+
+2024 | 3 | 27
+
+4. [How did advance Child Tax Credit payments affect households' 2021 tax year outcomes and spending response?](https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/how-did-advance-child-tax-credit-affect-households)
+- Using transaction-level data, we estimate the impact of the 2021 advance CTC payments on households’ federal tax refunds—or taxes owed—in 2022. We then estimate how households changed their spending behavior in response. We explore a range of spending categories, including spending on durable goods, services, and debt payments. We also analyze whether changes were more pronounced for households with lower liquidity. Overall, we find remarkably consistent year-over-year tax-time behaviors, given the scale of the advance CTC payments and subsequent decrease in federal tax refund amounts for CTC recipients. Our precise measurement of the spending response to this government benefit, and the behavioral impacts of changes in benefit amount and timing, can improve the efficiency of future programs by enabling policymakers to target the right households at the right cadence.
+
+
+2021 | 1 | 11
+
+
+5. [Is Lending Distance Really Changing? Distance Dynamics and Loan Composition in Small Business Lending](https://www.federalreserve.gov/econres/feds/files/2021011pap.pdf)
 - Has information technology improved small businesses’ credit access by hardening the information used in loan underwriting and reducing the importance of lender proximity? Previous research, pointing to increasing average lending distances, suggests that it has. Using over 20 years of Community Reinvestment Act data, we find that while average distances have increased substantially, distances at individual banks remain unchanged. Instead, average distance has increased because a small group of lenders specializing in high-volume, small-loan lending nationwide have increased their share of small business lending by 10 percentage points. Our findings imply that small businesses continue to depend on local banks
