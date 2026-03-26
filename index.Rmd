@@ -21,7 +21,7 @@ output:
 
 # **Lucas Nathe**
 
-This is a working space for my personal website. I am currently an associate Data Scientist at the J.P. Morgan Chase Institute and a mastesr student studying computer science with a specialization in Artifical Intelligence at the Georgia Institute of Technology. 
+This is a working space for my personal website. I am currently an associate Data Scientist at the J.P. Morgan Chase Institute and a masters student studying computer science with a specialization in Artificial Intelligence at the Georgia Institute of Technology.
 
 
 ## What I've been working on lately..
