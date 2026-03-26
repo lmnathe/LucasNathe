@@ -25,7 +25,7 @@ This is a working space for my personal website. I am currently an associate Dat
 
 
 ## What I've been working on lately..
-1. I recently published a report exploring the potential effects of recent changes in Income-Driven repayment plans on federal student [loans](https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/new-income-driven-repayment-plan).
+1. I recently published a [report](https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/new-income-driven-repayment-plan) exploring the potential effects of recent changes in Income-Driven repayment plans on federal student loans.
 2. In an attempt to rebuff my Python, webscraping, and geocoding skills, I attempted to explore the determinants of Fringe Bank location in my hometown of Chicago, starting with proximity to a traditional bank in this [Jupyter Notebook](https://github.com/lmnathe/Chicago_FringeBanks/blob/main/Chicago_FringeBanks.ipynb).
 3. Plotting a few google trend search results by DMA against the number of COVID-19 cases by month. [https://lmnathe.shinyapps.io/gtrendsapp/]. Note, the shinyApp currently takes about 30 seconds to launch.
 4. A clean function to pull in CRA disclosure files county loan totals.. [https://github.com/lmnathe/read_cra]
